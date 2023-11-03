@@ -4,12 +4,7 @@
     box-sizing: border-box;
 }
 
-header {
-    background-color: #8C1E92;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+
 
 .top-header {
     display: flex;

@@ -37,18 +37,7 @@ body {
     color: var(--color-seven);
     }
 
-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
 
-    box-shadow: rgba(0, 0, 0, 0.136) 0 4px 15px;
-
-    /* justify-content: center; */
-
-    height: 8vh;
-    margin-bottom: 20px;
-}
 .nav-titulo{
     background-color:var(--color-four);
     height: 100%;
