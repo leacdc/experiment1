@@ -4,7 +4,7 @@ import productService from '../services/product'
 
 
 
-//Importar nuestro componente
+//Importar  componente
 import ProductsList from './ProductsList'
 
 class Products extends React.Component {
